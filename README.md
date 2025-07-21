@@ -23,6 +23,15 @@ sudo apt update && sudo apt install mpg123 -y
 
 pip install python-dotenv
 
+pip install streamlit opencv-python pillow requests python-dotenv
+
+sudo apt-get update && sudo apt-get install -y libgl1-mesa-glx
+sudo apt-get install -y libgl1
+
+
+streamlit run app.py
+
+
 
 
 

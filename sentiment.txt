@@ -1,7 +1,4 @@
 Sentiment:
-[{'label': 'POSITIVE', 'score': 0.9968631267547607}]
+[{'label': 'NEGATIVE', 'score': 0.9996433258056641}]
 
 Named Entities:
-{'entity_group': 'MISC', 'score': np.float32(0.99422073), 'word': 'CO', 'start': 364, 'end': 366}
-{'entity_group': 'ORG', 'score': np.float32(0.5172839), 'word': '##VI', 'start': 366, 'end': 368}
-{'entity_group': 'MISC', 'score': np.float32(0.86173475), 'word': '##D', 'start': 368, 'end': 369}
