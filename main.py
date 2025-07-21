@@ -171,7 +171,7 @@ print("Enhanced Output:\n", enhanced_string)
 from gtts import gTTS
 tts = gTTS(text=enhanced_string, lang='en')
 tts.save("output.mp3")
-print("🔊 Audio saved as output.mp3")
+print("Audio saved as output.mp3")
 
 
 #  Sentiment & NER
