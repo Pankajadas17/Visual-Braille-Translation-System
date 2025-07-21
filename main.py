@@ -165,7 +165,7 @@ enhanced_string = enhance_with_llm(f"Fix and format this Braille-decoded text:\n
 with open("output.txt", "w") as f:
     f.write(enhanced_string)
 
-print("✅ Enhanced Output:\n", enhanced_string)
+print("Enhanced Output:\n", enhanced_string)
 
 # Save as audio using gTTS
 from gtts import gTTS
