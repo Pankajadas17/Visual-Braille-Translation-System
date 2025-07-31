@@ -1,6 +1,5 @@
 # Visual-Braille-Translation-System
 This project converts braille scripts into texts that can be read and audio file
-export OPENAI_API_KEY="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"
 
 Requirements:-
 sudo apt update && sudo apt install -y libgl1
